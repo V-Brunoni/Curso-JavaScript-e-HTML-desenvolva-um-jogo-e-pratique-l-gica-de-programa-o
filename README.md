@@ -1,1 +1,1 @@
-# Curso-JavaScript-e-HTML-desenvolva-um-jogo-e-pratique-l-gica-de-programa-o
+# Curso JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
